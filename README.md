@@ -1,5 +1,5 @@
 # 個人作品集與技術實作網站
->  [im.charlieshuun.com](https://im.charlieshuun.com)
+>  [personal.charlieshuun.com](https://personal.charlieshuun.com/)
 
 專案概述
 本專案為我的個人作品集，展示了我在高中期間對 **電子實作**與**網路安全**的探索過程。網站基於 HTML5 UP 模板進行改寫，並透過自建伺服器環境進行部署。
